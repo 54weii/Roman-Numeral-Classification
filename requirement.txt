@@ -1,0 +1,11 @@
+tensorflow
+keras
+keras-cv
+cleanvision
+albumentations
+numpy
+pandas
+matplotlib
+pillow
+opencv-python
+jupyter
